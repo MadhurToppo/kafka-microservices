@@ -2,7 +2,9 @@
 
 # Kafka Microservices with Spring Boot
 
-This project demonstrates a microservices architecture using Kafka for event-driven communication. All microservices are built with Spring Boot, ensuring rapid development and production-ready features.
+This project demonstrates a microservices architecture using Kafka for
+event-driven communication. All microservices are built with Spring Boot,
+ensuring rapid development and production-ready features.
 
 ## Features
 
